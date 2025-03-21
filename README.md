@@ -9,6 +9,7 @@
 
 ---
 ## 🏗 Estrutura Atualizada
+```sh
 jsgame-detona-ralph/
 │── index.html
 │── README.md
@@ -25,7 +26,7 @@ jsgame-detona-ralph/
 │   ├── styles/
 │   │   ├── main.css
 │   │   ├── reset.css
-
+```
 ---
 <p align="center">
   <img src="./src/images/ralph jj.png" alt="JSGame Detona Ralph Logo">
